@@ -2,6 +2,7 @@ name: python_excel
 
 dependencies:
   - conda
+  - ipywidgets
   - jupyterlab
   - numpy
   - openpyxl

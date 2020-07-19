@@ -6,6 +6,10 @@ dependencies:
   - conda
   - ipywidgets
   - jupyterlab
+  - jupytext
+  - nbconvert
+  - nodejs=13
+  - nbstripout
   - numpy
   - openpyxl
   - pandas

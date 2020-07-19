@@ -15,9 +15,7 @@ dependencies:
   - pandas
   - pip
   - pip:
-    - pyexcel-xls
-    - pyexcel-xlsx
-    - pylightxl
+    - -r file:requirements.txt
   - pyexcel
   - python=3.8
   - xlrd

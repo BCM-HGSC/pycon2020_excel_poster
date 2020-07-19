@@ -1,0 +1,25 @@
+name: python_excel
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - conda
+  - ipywidgets
+  - jupyterlab
+  - jupytext
+  - nbconvert
+  - nodejs=13
+  - nbstripout
+  - numpy
+  - openpyxl
+  - pandas
+  - pip
+  - pip:
+    - pyexcel-xls
+    - pyexcel-xlsx
+    - pylightxl
+  - pyexcel
+  - python=3.8
+  - xlrd
+  - xlsxwriter
+  - xlwt

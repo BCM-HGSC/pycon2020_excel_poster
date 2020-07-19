@@ -1,5 +1,7 @@
 name: python_excel
-
+channels:
+  - conda-forge
+  - defaults
 dependencies:
   - conda
   - ipywidgets

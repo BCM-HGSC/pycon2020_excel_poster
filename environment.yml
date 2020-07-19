@@ -16,7 +16,6 @@ dependencies:
     - pylightxl
   - pyexcel
   - python=3.8
-  - qrcode
   - xlrd
   - xlsxwriter
   - xlwt

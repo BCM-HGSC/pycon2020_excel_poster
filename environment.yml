@@ -10,13 +10,13 @@ dependencies:
   - openpyxl
   - pandas
   - pip
-  - pyexcel
-  - python=3.8
-  - xlrd
   - pip:
     - pyexcel-xls
     - pyexcel-xlsx
     - pylightxl
-    - qrcode
-    - xlsxwriter
-    - xlwt
+  - pyexcel
+  - python=3.8
+  - qrcode
+  - xlrd
+  - xlsxwriter
+  - xlwt

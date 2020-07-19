@@ -11,7 +11,7 @@ dependencies:
   - pandas
   - pip
   - pyexcel
-  - python
+  - python=3.8
   - xlrd
   - pip:
     - pyexcel-xls
